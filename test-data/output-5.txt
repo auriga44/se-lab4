@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500 initialization
+SUCCESS  # <- first TORPEDO,SINGLE (primary fires)
+SUCCESS  # <- second TORPEDO,SINGLE (secondary empty, primary fires again)

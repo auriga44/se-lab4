@@ -1,0 +1,1 @@
+Unknown command: '' No ship has been initialized
