@@ -1,3 +1,3 @@
 # Create a ship with stocked torpedo stores that never fail
-GT4500,0,0,10,0
+GT4500,0,0,1,0
 TORPEDO,ALL #   fail-only one container is filled
