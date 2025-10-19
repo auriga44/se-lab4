@@ -1,6 +1,4 @@
 # Create ship: primary has 2 torpedoes, secondary has 0, both never fail
 GT4500,2,0,0,0
-# First SINGLE should fire from primary (wasPrimaryFiredLast = true)
 TORPEDO,SINGLE
-# Second SINGLE should *try* to fire secondary, but it's empty → fires primary again
 TORPEDO,SINGLE
