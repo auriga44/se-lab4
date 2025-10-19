@@ -1,1 +1,1 @@
-Unknown firing mode: SEMI
+SUCCESS Unknown firing mode: 'SEMI'
